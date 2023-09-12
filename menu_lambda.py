@@ -1,4 +1,4 @@
-#autor: Federico Gramajo
+
 #Calculadora basica
 import os
 suma = lambda nro1, nro2: nro1+nro2
